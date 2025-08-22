@@ -2,13 +2,7 @@
 
 int main() {
 
-    int a;
-    int b;
-    int soma;
-    int sub;
-    int mult;
-    int div;
-
+    int a, b , soma, sub, mult, div;
     
     printf("Digite um número: \n");
     scanf("%d", &a);
